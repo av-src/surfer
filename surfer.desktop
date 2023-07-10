@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=Web
+Name=Surfer
 Exec=surfer %U
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=web-browser
+Icon=surfer
 Categories=Network;GNOME;GTK;WebBrowser;
 MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;multipart/related;application/x-mimearchive;message/rfc822;
 Actions=Incognito;
